@@ -2,7 +2,11 @@
 
 A small Python automation project that organizes files in a folder by file type.
 
-It is intentionally simple, but demonstrates practical automation engineering:
+Repository created on **12 September 2026**, according to GitHub repository metadata (`created_at`: `2026-09-12T17:49:20Z`). [View GitHub metadata](https://api.github.com/repos/Mariopiw/file-intake-automation).
+
+## Current features
+
+The current implementation includes:
 
 - Python CLI
 - filesystem automation
@@ -48,7 +52,7 @@ Downloads/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/file-intake-automation.git
+git clone https://github.com/Mariopiw/file-intake-automation.git
 cd file-intake-automation
 ```
 
@@ -123,7 +127,9 @@ Move file safely
 Write log / summary
 ```
 
-Possible next improvements:
+## Future improvements
+
+The following are ideas for future development and are **not implemented in the current version**:
 
 - configurable rules from YAML
 - scheduled execution with systemd
